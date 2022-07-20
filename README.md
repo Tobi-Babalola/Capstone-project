@@ -23,3 +23,6 @@ The causes were split into 7, namely: Collision (for crashes where two airplanes
 ___
 Then, I loaded the data into into Power BI. With Power Query, I removed a few columns and changed data types and loaded the data.  The next thing was visualization.
 I used area charts, a pie chart, a map visual, a table visual and a bar chart .![Screenshot 2022-07-20 235828](https://user-images.githubusercontent.com/107150582/180098037-7efee7ce-01f9-44f4-9bf7-fb5fa3b995d6.jpg)
+___
+# Findings and Recommendation
+Airplane crashes occur due to a number of reason and claim lots of lives. Weather conditions is a major reason for crashes. More attention should be paid to the weather before takeoff. Also, another reason for crashes is mechanical failure. Airplanes should be fully checked and crosschecked to avoid crashes.
